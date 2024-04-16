@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/Zoon20X?template=classic&isocalendar=1&languages=1&lines=1&isocalendar.duration=half-year&languages.colors=github&languages.threshold=0%25&config.timezone=Australia%2FBrisbane)
+![Metrics](https://github-readme-stats.vercel.app/api?username=Zoon20X&theme=shadow_blue&show_icons=true)
